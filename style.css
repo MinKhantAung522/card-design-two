@@ -1,0 +1,28 @@
+.card-body{
+    background-color: rgb(235, 246, 255);
+}
+.btn{
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    border-radius: 10px;
+}
+.link{
+    color: hsl(245, 75%, 52%);
+    font-weight: bolder;
+}
+.btn:hover{
+    background-color:  hsl(225, 52%, 46%);
+    color: white;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+}
+
+.link:hover{
+    color: blueviolet;
+    text-decoration: none;
+}
+.cancel{
+    cursor: pointer;
+}
